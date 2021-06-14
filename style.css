@@ -108,22 +108,49 @@ input, select {
   h1{
     color: #66BAA9;
     font-size: 50px;
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    /*font-style: italic */
   }
 
   h2{
+    font-size: 35px;
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    /*font-style: italic */
     color: #F09973;
   }
 
-  .classtest {
+  h3{
+    font-size: 35px;
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    /*font-style: italic */
     color: #292C35;
+  }
+  h5{
     font-size: 20px;
+    font-family: 'Source Sans Pro';
+    font-weight: 300;
+    /*font-style: italic */
+    color: #292C35;
   }
 
   p {
-    background-color: #66BAA9;
+    font-size: 15px;
+    font-family: 'Source Sans Pro';
+    font-weight: 400;
+    /*font-style: italic */
+    color: #292C35;
+    background-color: #c7fcff;
   }
 
 .wrapper {
     margin: 0 auto;
     width: 1000px;
+}
+
+.img-LoG {
+  width: 800px;
+
 }
