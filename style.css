@@ -115,7 +115,8 @@ nav{
   margin-left: 30px;
 }
 .img-mb {
-  margin-left: 30px;
+  margin-right: 50px;
+  float:right;
   width: 300px;
 }
 .img-LoG {
